@@ -1,0 +1,23 @@
+total 0
+drwx------@  3 sabbir  staff    96 Nov 26 21:08 Applications
+drwxr-xr-x   3 sabbir  staff    96 Dec 12 15:01 BSSE1333
+drwx------@  4 sabbir  staff   128 Dec  6 00:35 Desktop
+drwx------+  6 sabbir  staff   192 Dec  9 12:11 Documents
+drwx------+  7 sabbir  staff   224 Dec 10 21:30 Downloads
+drwx------@ 90 sabbir  staff  2880 Dec  4 22:39 Library
+drwx------   4 sabbir  staff   128 Nov 26 09:40 Movies
+drwx------+  6 sabbir  staff   192 Nov 27 18:31 Music
+drwx------+  4 sabbir  staff   128 Jan  1  1970 Pictures
+drwxr-xr-x+  4 sabbir  staff   128 Jan  1  1970 Public
+Mon Dec 12 15:06:32 +06 2022
+total 0
+drwx------@  3 sabbir  staff    96 Nov 26 21:08 Applications
+drwxr-xr-x   3 sabbir  staff    96 Dec 12 15:01 BSSE1333
+drwx------@  4 sabbir  staff   128 Dec  6 00:35 Desktop
+drwx------+  6 sabbir  staff   192 Dec  9 12:11 Documents
+drwx------+  7 sabbir  staff   224 Dec 10 21:30 Downloads
+drwx------@ 90 sabbir  staff  2880 Dec  4 22:39 Library
+drwx------   4 sabbir  staff   128 Nov 26 09:40 Movies
+drwx------+  6 sabbir  staff   192 Nov 27 18:31 Music
+drwx------+  4 sabbir  staff   128 Jan  1  1970 Pictures
+drwxr-xr-x+  4 sabbir  staff   128 Jan  1  1970 Public
