@@ -18,7 +18,7 @@ int main()
     int max, edges;
     cout << "How many points : ";
     cin >> max;
-    string point[max+1];
+    char point[max+1];
     cout << " Enter the points : ";
     for(int i = 1 ; i <= max ; i++)
     {
@@ -75,7 +75,7 @@ int main()
     }
 
     int cur = start;
-    cout << point[start] << " ";
+    cout << start << " ";
 
     while(cur != finish)
     {
@@ -97,7 +97,7 @@ int main()
         }
         else if(!visited[cur][min])
         {
-            cout << point[min] << " ";
+            cout << min << " ";
             visited[cur][min] = visited[min][cur] = 1;
             cur = min;
         }
@@ -106,6 +106,6 @@ int main()
             sieve[cur][min] = sieve[min][cur] = inf;
         }
     }
-    cout << endl;
+
     return 0;
 }
